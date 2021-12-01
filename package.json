@@ -1,0 +1,24 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "first assignment dependencies here",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Monikajoshi2001/webDevPractice.git"
+  },
+  "author": "Monika Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monikajoshi2001/webDevPractice/issues"
+  },
+  "homepage": "https://github.com/Monikajoshi2001/webDevPractice#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
